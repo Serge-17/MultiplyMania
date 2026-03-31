@@ -47,3 +47,9 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/Serge-17/MultiplyMania.git
+```
+
+## 👨‍💻 Автор
+
+**Serge Eliseev**
+- GitHub: [@Serge-17](https://github.com/Serge-17)
